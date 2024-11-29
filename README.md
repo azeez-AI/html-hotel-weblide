@@ -6,11 +6,17 @@ This project is a responsive Hotel Booking Website built using HTML. It showcase
 ---------------------------------------------------------------------------------------------------------------------
 
 Features
+
 ✔ Home Page: An attractive landing page with visuals and hotel information.
+
 ✔ Rooms & Pricing: A section displaying room types, pricing, and features.
+
 ✔ About Us: The hotel's history, and services offered.
+
 ✔ Contact Us: A simple contact form for inquiries and booking-related queries.
+
 ✔ Responsive Design: Ensures the website looks great on all devices (desktop, tablet, and mobile).
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -27,10 +33,12 @@ Technologies Used:
 
 HTML5: For structuring the content.
 
+
 ---------------------------------------------------------------------------------------------------------------------
+
 
 Screenshots:
 
-![Hotel Merrytale - Personal - Microsoft​ Edge 29-11-2024 3 56 32 PM](https://github.com/user-attachments/assets/e5422c35-856b-4aaa-9f31-ffa5697d5d75)
 
+![Hotel Merrytale - Personal - Microsoft​ Edge 29-11-2024 3 56 32 PM](https://github.com/user-attachments/assets/79dd6b3d-57e3-44cd-9939-a371c59ff325)
 
